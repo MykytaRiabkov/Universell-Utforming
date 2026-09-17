@@ -38,3 +38,26 @@ body {
     top: 0;
     z-index: 1000;
 }
+
+.footer {
+    background-color: #3A1D68;
+    color: white;
+    padding: 30px;
+    margin-top: 50px;
+}
+
+.footer a {
+    color: #00FBFF;
+}
+
+.footer a:hover {
+    color: white;
+}
+
+.footer ul {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    list-style: none;
+    padding: 0;
+}
